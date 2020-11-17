@@ -4,6 +4,8 @@ class SightingSerializer
     @sighting = sighting_obj
   end
   
-  
+  def to_serialized_json
+    
+  end
   
 end
